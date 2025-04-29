@@ -1,1 +1,0 @@
-# Smart-Canteen-Management-System
